@@ -1,0 +1,1 @@
+{"IES":{"clase":{"alumno":[{"dni":"123123124T","nombre":"Raul","nota":5,"domicilio":{"calle":"Calle peplito","numero":2}},{"dni":1.31312321E8,"nombre":"berta","nota":3}]},"cont":2}}

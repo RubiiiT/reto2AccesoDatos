@@ -1,0 +1,5 @@
+#PROPIEDADES GUARDADAS EN FICHERO TEXTO
+#Thu Sep 19 10:05:19 CEST 2024
+papa=ayuda
+jefe=adios
+hola=quetal

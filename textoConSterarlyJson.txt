@@ -1,0 +1,1 @@
+{"clase":[{"dni":"123123124T","nombre":"Raul","nota":5,"domicilio":{"calle":"Calle peplito","numero":2}},{"dni":"131312321F","nombre":"berta","nota":3}]}
