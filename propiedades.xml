@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>fichero de tipo .xml</comment>
+<entry key="GTA">Rockstar Games</entry>
+<entry key="Call of Duty">Activision</entry>
+<entry key="LOL">Riot Games</entry>
+<entry key="Minecraft">Mojang</entry>
+</properties>
